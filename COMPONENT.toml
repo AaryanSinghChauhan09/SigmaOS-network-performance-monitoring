@@ -3,7 +3,7 @@ name = "SigmaOS-network-performance-monitoring"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "network-performance-monitoring component"
+description = "Network Performance Monitoring"
 upstream = []
 
 [contract]
